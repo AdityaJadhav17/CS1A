@@ -20,3 +20,8 @@ CS1A is an introductory course designed to teach the fundamentals of programming
 - `/projects/` – Major projects and presentations
 - `/labs/` – Lab exercises and practice problems
 - `/notes/` – Lecture notes and resources
+
+
+## 🚀 Getting Started
+
+1. Clone the repository:
